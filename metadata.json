@@ -1,0 +1,8 @@
+{
+  "name": "편의시설 모니터링",
+  "description": "은평구 재미마중사회적협동조합의 휠체어 사용 조합원을 위한 편의시설 및 보도 환경 모니터링 시스템입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
